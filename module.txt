@@ -1,0 +1,23 @@
+GADGET GEEKS
+ADMIN
+
+•⁠  ⁠Login: 
+•⁠  ⁠Manage Categories: 
+•⁠  ⁠Manage Users: 
+•⁠  ⁠Manage Products: 
+•⁠  ⁠Manage Orders:
+•⁠  ⁠Manage Stock:
+•⁠  ⁠View Payment:
+•⁠  ⁠View Feedback: 
+•⁠  ⁠View Report:
+
+USER
+•⁠  ⁠Register: 
+•⁠  ⁠Login:
+•⁠  ⁠View Products:
+•⁠  ⁠View Category: 
+•⁠  ⁠Order Products: 
+•⁠  ⁠Order Products in Bulk: 
+•⁠  ⁠View Product Status: 
+•⁠  ⁠Add Feedback:
+
